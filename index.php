@@ -2,7 +2,7 @@
 require_once "php/pdo.php";
 session_start();
 $dateselect = "start";
-error_reporting(0);
+
 
 
 date_default_timezone_set("Asia/Kolkata");
