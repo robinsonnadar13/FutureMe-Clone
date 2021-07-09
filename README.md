@@ -16,4 +16,6 @@ FutureMe will send e-mail you compose at a day and time you request. Write a let
 
 - Clone this folder to C:\MAMP\htdocs
 
+- Start the server!
+
 - Go to browser: http://localhost/FutureMe-Clone/index.php
