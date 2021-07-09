@@ -6,6 +6,6 @@ FutureMe will send e-mail you compose at a day and time you request. Write a let
 
 "Send a Message to the Future You"
 
-## Demo
+## Demonstration
 
 <img src="./Images/FutureMe demo.gif" alt="demo video"/>
