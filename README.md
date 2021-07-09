@@ -7,4 +7,4 @@ FutureMe will send e-mail you compose at a day and time you request. Write a let
 
 ## Demo
 
-<img src="./Images/FutureMe demo.gif" alt="demo video" width="500px" height = "500px"/>
+<img src="./Images/FutureMe demo.gif" alt="demo video"/>
